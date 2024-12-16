@@ -58,6 +58,10 @@ order by revenue desc, o_orderdate;
 ---
 ## Algorithm
 
-See https://cse.hkust.edu.hk/~yike/Cquirrel.pdf.
+Query Plan:
+
+![](D:\project\flink\flink\src\main\resources\Flink.jpg)
+
+For algorithm and theory, see https://cse.hkust.edu.hk/~yike/Cquirrel.pdf.
 
 Full paper: https://cse.hkust.edu.hk/~yike/sigmod20.pdf.
