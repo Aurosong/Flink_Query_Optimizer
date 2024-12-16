@@ -60,7 +60,7 @@ order by revenue desc, o_orderdate;
 
 Query Plan:
 
-![](D:\project\flink\flink\src\main\resources\Flink.jpg)
+![](src/main/resources/Flink.jpg)
 
 For algorithm and theory, see https://cse.hkust.edu.hk/~yike/Cquirrel.pdf.
 
